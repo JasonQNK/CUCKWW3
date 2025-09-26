@@ -6,4 +6,5 @@ p {color: white;}
 #kkk {font-size: 150%;}
 .resaltado { background-color: rgb(0, 0, 0); font-weight: bold; }
 ul > li { list-style: circle; }
-div p { color: rgb(198, 69, 69); } 
+div p { color: rgb(149, 127, 127); } 
+h1{font-style: italic;}
